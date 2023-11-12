@@ -7,7 +7,7 @@ Hauptfunktionen
 
 #Systemanforderungen
 
-    Moodle Version X.X oder höher
+    Moodle Version 2.5 oder höher
     Administrativer Zugriff auf Moodle für die Installation des Plugins
 
 #Installation
